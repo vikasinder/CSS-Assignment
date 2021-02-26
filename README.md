@@ -1,2 +1,1 @@
-# CSS-Assignment
-My first Css Major Assignmeent
+["CSS Assignement Live"](https://vikasinder.github.io/CSS-Assignment/)
